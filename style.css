@@ -1,0 +1,27 @@
+.main{
+    border: 2px solid #e91e63 ;
+    width: 200px;
+    margin: 0 auto;
+
+}
+.lecture{
+    width: 194px;
+    background-color: #e91e63 ;
+    color:black;
+    
+}
+.clearBtn{
+    width: 200px;
+    margin-top: 10px;
+    background-color: #e91e63;
+}
+.btn{
+    background-color: #e91e63;
+    width: 45px;
+    margin: 1px;
+}
+.halfBtn{
+    background-color: #e91e63  ;
+    width: 97px;
+    margin-top: 10px;
+}
